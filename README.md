@@ -49,5 +49,6 @@ Install like any other Firefox CSS theme.
     * `AeroFirefox.fix-borders.no-padding`: Removes the left and right padding in the navigation bar and bookmarks bar.
 
 ## Screenshot
+_github seems to be displaying the wrong image for me, so if it's not working right, click [here](https://github.com/Gameknight963/AeroFirefoxEx/blob/main/screenshots/screen1.png)_
 
 ![image](screenshots/screen1.png)
