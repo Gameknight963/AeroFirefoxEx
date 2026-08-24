@@ -1,12 +1,8 @@
-# Aero Firefox
+# AeroFirefoxEx
 
-![GitHub Release](https://img.shields.io/github/v/release/SandTechStuff/AeroFirefox)
-![GitHub Release Date](https://img.shields.io/github/release-date/SandTechStuff/AeroFirefox)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SandTechStuff/AeroFirefox/total)
-
-> [!WARNING]
-> The latest release no longer works on Firefox 141 and over.
-> If you want to use the theme on newer versions, download it from the [3.0-test](https://github.com/SandTechStuff/AeroFirefox/tree/3.0-test) branch.
+![GitHub Release](https://img.shields.io/github/v/release/Gameknight963/AeroFirefoxEx)
+![GitHub Release Date](https://img.shields.io/github/release-date/Gameknight963/AeroFirefoxEx)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Gameknight963/AeroFirefoxEx/total)
 
 Brings the Aero titlebar buttons from Windows 7, transparency support, and more to the latest version of Firefox.
 
@@ -22,6 +18,7 @@ This theme uses images extracted from the official Windows 7 msstyles theme file
 ## Installation
 
 Install like any other Firefox CSS theme.
+
 1. Check for compatibility issues in the chart below.
 2. Open `about:config`
 3. Set `toolkit.legacyUserProfileCustomizations.stylesheets` to true.
@@ -51,15 +48,6 @@ Install like any other Firefox CSS theme.
 
     * `AeroFirefox.fix-borders.no-padding`: Removes the left and right padding in the navigation bar and bookmarks bar.
 
-## Screenshots
+## Screenshot
 
-_Currently Outdated (Pre-2.0)_
-
-> Dark Mode
-![image](/screenshots/screen1.png)
-
->Light Mode
-![image](/screenshots/screen2.png)
-
->Alphenglow
-![image](/screenshots/screen3.png)
+![image](screenshots/screen1.png)
